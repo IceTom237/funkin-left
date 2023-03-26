@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"foraging",
+			"bloodshot",
+			[
+				0,
+				80,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "bloodshot",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Bloodshot",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

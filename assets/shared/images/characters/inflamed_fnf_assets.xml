@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="inflamed_fnf_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="INFLAMED DOWN0000" x="0" y="0" width="302" height="360"/>
+	<SubTexture name="INFLAMED DOWN0001" x="0" y="0" width="302" height="360"/>
+	<SubTexture name="INFLAMED DOWN0002" x="302" y="0" width="301" height="355" frameX="-1" frameY="-5" frameWidth="302" frameHeight="360"/>
+	<SubTexture name="INFLAMED DOWN0003" x="302" y="0" width="301" height="355" frameX="-1" frameY="-5" frameWidth="302" frameHeight="360"/>
+	<SubTexture name="INFLAMED DOWN0004" x="603" y="0" width="300" height="350" frameX="-2" frameY="-10" frameWidth="302" frameHeight="360"/>
+	<SubTexture name="INFLAMED DOWN0005" x="603" y="0" width="300" height="350" frameX="-2" frameY="-10" frameWidth="302" frameHeight="360"/>
+	<SubTexture name="INFLAMED DOWN0006" x="903" y="0" width="298" height="346" frameX="-3" frameY="-14" frameWidth="302" frameHeight="360"/>
+	<SubTexture name="INFLAMED DOWN0007" x="903" y="0" width="298" height="346" frameX="-3" frameY="-14" frameWidth="302" frameHeight="360"/>
+	<SubTexture name="INFLAMED DOWN0008" x="1201" y="0" width="296" height="341" frameX="-4" frameY="-19" frameWidth="302" frameHeight="360"/>
+	<SubTexture name="INFLAMED DOWN0009" x="1497" y="0" width="295" height="338" frameX="-5" frameY="-22" frameWidth="302" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0000" x="1792" y="0" width="305" height="341" frameX="-7" frameY="-19" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0001" x="1792" y="0" width="305" height="341" frameX="-7" frameY="-19" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0002" x="2097" y="0" width="303" height="344" frameX="-6" frameY="-16" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0003" x="2097" y="0" width="303" height="344" frameX="-6" frameY="-16" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0004" x="2400" y="0" width="303" height="347" frameX="-4" frameY="-13" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0005" x="2400" y="0" width="303" height="347" frameX="-4" frameY="-13" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0006" x="2703" y="0" width="301" height="350" frameX="-3" frameY="-10" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0007" x="2703" y="0" width="301" height="350" frameX="-3" frameY="-10" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0008" x="3004" y="0" width="300" height="353" frameX="-2" frameY="-7" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0009" x="3004" y="0" width="300" height="353" frameX="-2" frameY="-7" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0010" x="3304" y="0" width="300" height="356" frameX="-2" frameY="-4" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0011" x="3304" y="0" width="300" height="356" frameX="-2" frameY="-4" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0012" x="3604" y="0" width="301" height="358" frameX="-1" frameY="-2" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED IDLE0013" x="0" y="360" width="302" height="360" frameX="0" frameY="0" frameWidth="312" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0000" x="302" y="360" width="302" height="360" frameX="-26" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0001" x="604" y="360" width="302" height="360" frameX="-23" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0002" x="906" y="360" width="315" height="360" frameX="-20" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0003" x="1221" y="360" width="326" height="360" frameX="-17" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0004" x="1547" y="360" width="331" height="360" frameX="-14" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0005" x="1878" y="360" width="333" height="360" frameX="-12" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0006" x="2211" y="360" width="332" height="360" frameX="-9" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0007" x="2543" y="360" width="325" height="360" frameX="-6" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0008" x="2868" y="360" width="314" height="360" frameX="-3" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED LEFT0009" x="3182" y="360" width="304" height="360" frameX="0" frameY="0" frameWidth="345" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0000" x="3486" y="360" width="302" height="360" frameX="0" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0001" x="3788" y="360" width="302" height="360" frameX="-3" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0002" x="0" y="720" width="312" height="360" frameX="-5" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0003" x="312" y="720" width="321" height="360" frameX="-7" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0004" x="633" y="720" width="331" height="360" frameX="-9" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0005" x="964" y="720" width="340" height="360" frameX="-11" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0006" x="1304" y="720" width="348" height="360" frameX="-13" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0007" x="1652" y="720" width="354" height="360" frameX="-15" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0008" x="2006" y="720" width="359" height="360" frameX="-17" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED RIGHT0009" x="2365" y="720" width="365" height="360" frameX="-19" frameY="0" frameWidth="384" frameHeight="360"/>
+	<SubTexture name="INFLAMED UP0000" x="2730" y="720" width="302" height="360" frameX="0" frameY="-22" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0001" x="3032" y="720" width="306" height="362" frameX="0" frameY="-20" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0002" x="3338" y="720" width="319" height="365" frameX="0" frameY="-17" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0003" x="3657" y="720" width="332" height="367" frameX="0" frameY="-15" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0004" x="0" y="1087" width="341" height="370" frameX="0" frameY="-12" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0005" x="341" y="1087" width="348" height="372" frameX="0" frameY="-10" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0006" x="689" y="1087" width="354" height="374" frameX="0" frameY="-8" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0007" x="1043" y="1087" width="355" height="377" frameX="0" frameY="-5" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0008" x="1398" y="1087" width="352" height="379" frameX="0" frameY="-3" frameWidth="355" frameHeight="382"/>
+	<SubTexture name="INFLAMED UP0009" x="1750" y="1087" width="345" height="382" frameX="0" frameY="0" frameWidth="355" frameHeight="382"/>
+</TextureAtlas>
